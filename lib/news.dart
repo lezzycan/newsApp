@@ -95,12 +95,4 @@ List listOfArticles =[];
 
   }
 }
-// class DataModel {
-//
-//   String? author;
-//   String? title;
-//   String? url;
-//   String? content;
-//
-//   DataModel(this.content, this.author, this.title, this.url);
-// }
+
